@@ -1,0 +1,2 @@
+boto3==1.34.15
+deepgram-sdk==3.0.3
